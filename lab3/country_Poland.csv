@@ -1,0 +1,42 @@
+ID;Nombre;Ciudad;Pais;IATA;ICAO;Latitud;Longitud;Altitud;Timezone;DST
+667;Babice Airport;Warsaw;Poland;\N;EPBC;52.26850128;20.9109993;352.0;1.0;E
+668;Gdañsk Lech Wa³êsa Airport;Gdansk;Poland;GDN;EPGD;54.37760162;18.46619987;489.0;1.0;E
+669;Kraków John Paul II International Airport;Krakow;Poland;KRK;EPKK;50.077702;19.7848;791.0;1.0;E
+670;Muchowiec Airport;Katowice;Poland;\N;EPKM;50.23809814;19.03420067;909.0;1.0;E
+671;Katowice International Airport;Katowice;Poland;KTW;EPKT;50.4743;19.08;995.0;1.0;E
+673;Mielec Airport;Mielec;Poland;\N;EPML;50.32229996;21.46209908;548.0;1.0;E
+674;Poznañ-£awica Airport;Poznan;Poland;POZ;EPPO;52.42100143;16.82629967;308.0;1.0;E
+675;Rzeszów-Jasionka Airport;Rzeszow;Poland;RZE;EPRZ;50.11000061;22.0189991;675.0;1.0;E
+"676;""Szczecin-Goleniów Solidarnoœæ"""" Airport"""""";Szczecin;Poland;SZZ;EPSC;53.58470154;14.90219975;154.0;1.0;E"
+677;Redzikowo Air Base;Slupsk;Poland;OSP;EPSK;54.47890091;17.10750008;217.0;1.0;E
+678;Swidwin Military Air Base;Shapaja;Poland;\N;EPSN;53.79059982;15.82629967;385.0;1.0;E
+679;Warsaw Chopin Airport;Warsaw;Poland;WAW;EPWA;52.16569901;20.96710014;362.0;1.0;E
+680;Copernicus Wroc³aw Airport;Wroclaw;Poland;WRO;EPWR;51.10269928;16.88579941;404.0;1.0;E
+681;Zielona Góra-Babimost Airport;Zielona Gora;Poland;IEG;EPZG;52.13850021;15.7986002;194.0;1.0;E
+5591;Bydgoszcz Ignacy Jan Paderewski Airport;Bydgoszcz;Poland;BZG;EPBY;53.09680176;17.97769928;235.0;1.0;E
+5592;£ódŸ W³adys³aw Reymont Airport;Lodz;Poland;LCJ;EPLL;51.72190094;19.3980999;604.0;1.0;E
+6425;Szczecin-D¹bie Airport;Szczecin;Poland;\N;EPSD;53.39210129;14.63379955;3.0;1.0;E
+6499;Bielsko Biala Airport;Bielsko-Biala;Poland;\N;EPBA;49.80500031;19.00189972;1319.0;1.0;E
+7685;Lotnisko Korne;Koszalin;Poland;\N;EPKO;54.129583;17.844972;515.0;1.0;E
+7812;Oksywie Military Air Base;Gdynia;Poland;QYD;EPOK;54.57970047;18.51720047;144.0;1.0;E
+7813;Malbork Military Air Base;Malbork;Poland;\N;EPMB;54.02690125;19.13419914;16.0;1.0;E
+7814;Lask Military Air Base;Lask;Poland;\N;EPLK;51.55170059;19.17910004;633.0;1.0;E
+7815;Miroslawiec Military Air Base;Miroslawiec;Poland;\N;EPMI;53.39509964;16.08279991;459.0;1.0;E
+7816;Krzesiny Military Air Base;Poznan;Poland;\N;EPKS;52.33169937;16.96640015;265.0;1.0;E
+8029;Radom Airport;RADOM;Poland;RDO;EPRA;51.3891983;21.21330071;610.0;1.0;E
+8414;Modlin Airport;Warsaw;Poland;WMI;EPMO;52.451099;20.6518;341.0;1.0;E
+8633;Inowroclaw Military Air Base;Inowroclaw;Poland;\N;EPIR;52.82939911;18.33060074;259.0;1.0;E
+8634;Pruszcz Gdanski Air Base;Pruszcz Gdansk;Poland;\N;EPPR;54.248001;18.6716;21.0;1.0;E
+8751;Góraszka Airport;Goraszka;Poland;\N;EPGO;52.18444061;21.28111076;361.0;1.0;E
+8832;Lublin Airport;Lublin;Poland;LUZ;EPLB;51.240278;22.713611;633.0;1.0;E
+11103;Olsztyn-Mazury Airport;Szczytno-Szymany;Poland;SZY;EPSY;53.481899;20.9377;463.0;1.0;E
+11386;Jelenia Góra Glider Airport;Jelenia Gora;Poland;\N;EPJG;50.89889908;15.78559971;1119.0;1.0;E
+11790;Bia³a Podlaska Airfield;Bia³a Podlaska;Poland;BXP;EPBP;52.00078;23.1325278;485.0;0.0;\N
+11791;Cewice Air Base;Lêbork;Poland;\N;EPCE;54.416;17.7633;495.0;0.0;\N
+11792;Deblin Military Air Base;Dêblin;Poland;\N;EPDE;51.55139923;21.89360046;392.0;0.0;\N
+11793;Leczyca Military Air Base;Leczyca;Poland;\N;EPLY;52.00469971;19.14559937;377.0;0.0;\N
+11794;Minsk Mazowiecki Military Air Base;\N;Poland;\N;EPMM;52.19549942;21.65589905;604.0;0.0;\N
+11795;Powidz Military Air Base;\N;Poland;\N;EPPW;52.379398;17.853901;371.0;0.0;\N
+11796;Tomaszow Mazowiecki Military Air Base;Tomaszów Mazowiecki;Poland;\N;EPTM;51.58440018;20.0977993;571.0;0.0;\N
+13453;Suwa³ki Airport;Suwalki;Poland;\N;EPSU;54.07279968;22.89920044;581.0;2.0;U
+13621;Jastarnia Airport;Jastarnia;Poland;\N;EPJA;54.71028137;18.64528084;3.0;2.0;E

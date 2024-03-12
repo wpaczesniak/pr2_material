@@ -1,0 +1,65 @@
+ID;Nombre;Ciudad;Pais;IATA;ICAO;Latitud;Longitud;Altitud;Timezone;DST
+1051;Fuerteventura Airport;Fuerteventura;Spain;FUE;GCFV;28.45269966;-13.86380005;85.0;0.0;E
+1052;Hierro Airport;Hierro;Spain;VDE;GCHI;27.81480026;-17.88710022;103.0;0.0;E
+1053;La Palma Airport;Santa Cruz De La Palma;Spain;SPC;GCLA;28.626499;-17.7556;107.0;0.0;E
+1054;Gran Canaria Airport;Gran Canaria;Spain;LPA;GCLP;27.93190002;-15.38659954;78.0;0.0;E
+1055;Lanzarote Airport;Arrecife;Spain;ACE;GCRR;28.945499;-13.6052;46.0;0.0;E
+1056;Tenerife South Airport;Tenerife;Spain;TFS;GCTS;28.04450035;-16.57250023;209.0;0.0;E
+1057;Tenerife Norte Airport;Tenerife;Spain;TFN;GCXO;28.48270035;-16.34149933;2076.0;0.0;E
+1058;Melilla Airport;Melilla;Spain;MLN;GEML;35.27980042;-2.956259966;156.0;1.0;E
+1211;Albacete-Los Llanos Airport;Albacete;Spain;ABC;LEAB;38.94850159;-1.863520026;2302.0;1.0;E
+1212;Alicante International Airport;Alicante;Spain;ALC;LEAL;38.28219986;-0.558156013;142.0;1.0;E
+1213;Almería International Airport;Almeria;Spain;LEI;LEAM;36.84389877;-2.370100021;70.0;1.0;E
+1214;Asturias Airport;Aviles;Spain;OVD;LEAS;43.56359863;-6.034619808;416.0;1.0;E
+1215;Córdoba Airport;Cordoba;Spain;ODB;LEBA;37.84199905;-4.848879814;297.0;1.0;E
+1216;Bilbao Airport;Bilbao;Spain;BIO;LEBB;43.30110168;-2.910609961;138.0;1.0;E
+1218;Barcelona International Airport;Barcelona;Spain;BCN;LEBL;41.2971;2.07846;12.0;1.0;E
+1219;Badajoz Airport;Badajoz;Spain;BJZ;LEBZ;38.8913002;-6.82133007;609.0;1.0;E
+1220;A Coruña Airport;La Coruna;Spain;LCG;LECO;43.302101;-8.37726;326.0;1.0;E
+1221;Armilla Air Base;Granada;Spain;\N;LEGA;37.1332016;-3.63568997;2297.0;1.0;E
+1222;Girona Airport;Gerona;Spain;GRO;LEGE;41.90100098;2.760550022;468.0;1.0;E
+1223;Federico Garcia Lorca Airport;Granada;Spain;GRX;LEGR;37.18870163;-3.777359962;1860.0;1.0;E
+1224;Getafe Air Base;Madrid;Spain;\N;LEGT;40.29410172;-3.723829985;2031.0;1.0;E
+1225;Ibiza Airport;Ibiza;Spain;IBZ;LEIB;38.8728981;1.37311995;24.0;1.0;E
+1226;Jerez Airport;Jerez;Spain;XRY;LEJR;36.74459839;-6.060110092;93.0;1.0;E
+1227;San Javier Airport;Murcia;Spain;MJV;LELC;37.77500153;-0.812389016;11.0;1.0;E
+1229;Adolfo Suárez Madrid–Barajas Airport;Madrid;Spain;MAD;LEMD;40.471926;-3.56264;1998.0;1.0;E
+1230;Málaga Airport;Malaga;Spain;AGP;LEMG;36.67490005;-4.499110222;53.0;1.0;E
+1231;Menorca Airport;Menorca;Spain;MAH;LEMH;39.86259842;4.218649864;302.0;1.0;E
+1232;Moron Air Base;Sevilla;Spain;OZP;LEMO;37.17490005;-5.615940094;285.0;1.0;E
+1233;Ocaña Airport;Ocana;Spain;\N;LEOC;39.9375;-3.503329992;2405.0;1.0;E
+1234;Pamplona Airport;Pamplona;Spain;PNA;LEPP;42.77000046;-1.646329999;1504.0;1.0;E
+1235;Alcantarilla Air Base;Murcia;Spain;\N;LERI;37.951099;-1.23032;250.0;1.0;E
+1236;Reus Air Base;Reus;Spain;REU;LERS;41.1473999;1.167170048;233.0;1.0;E
+1237;Rota Naval Station Airport;Rota;Spain;ROZ;LERT;36.64519882;-6.349460125;86.0;1.0;E
+1238;Salamanca Airport;Salamanca;Spain;SLM;LESA;40.95209885;-5.501989841;2595.0;1.0;E
+1239;Son Bonet Airport;Son Bonet;Spain;\N;LESB;39.59889984;2.702780008;157.0;1.0;E
+1241;San Luis Airport;San Luis;Spain;\N;LESL;39.86220169;4.258329868;197.0;1.0;E
+1242;San Sebastian Airport;San Sebastian;Spain;EAS;LESO;43.35649872;-1.790609956;16.0;1.0;E
+1243;Santiago de Compostela Airport;Santiago;Spain;SCQ;LEST;42.89630127;-8.415140152;1213.0;1.0;E
+1244;Pirineus - la Seu d'Urgel Airport;Seo De Urgel;Spain;LEU;LESU;42.3386;1.40917;2625.0;1.0;E
+1245;Torrejón Airport;Madrid;Spain;TOJ;LETO;40.49670029;-3.445869923;2026.0;1.0;E
+1246;Valencia Airport;Valencia;Spain;VLC;LEVC;39.4893;-0.481625;240.0;1.0;E
+1247;Valladolid Airport;Valladolid;Spain;VLL;LEVD;41.70610046;-4.851940155;2776.0;1.0;E
+1249;Vitoria/Foronda Airport;Vitoria;Spain;VIT;LEVT;42.88280106;-2.7244699;1682.0;1.0;E
+1250;Vigo Airport;Vigo;Spain;VGO;LEVX;42.23180008;-8.62677002;856.0;1.0;E
+1251;Santander Airport;Santander;Spain;SDR;LEXJ;43.42710114;-3.820009947;16.0;1.0;E
+1252;Zaragoza Air Base;Zaragoza;Spain;ZAZ;LEZG;41.66619873;-1.04155004;863.0;1.0;E
+1253;Sevilla Airport;Sevilla;Spain;SVQ;LEZL;37.41799927;-5.893109798;112.0;1.0;E
+3998;Palma De Mallorca Airport;Palma de Mallorca;Spain;PMI;LEPA;39.55170059;2.738810062;27.0;1.0;E
+5659;La Gomera Airport;La Gomera;Spain;GMZ;GCGM;28.02960014;-17.21459961;716.0;0.0;E
+5781;Logroño-Agoncillo Airport;Logroño-Agoncillo;Spain;RJL;LELO;42.46095349;-2.322235107;1161.0;1.0;E
+6756;Leon Airport;Leon;Spain;LEN;LELN;42.5890007;-5.655560017;3006.0;1.0;E
+6757;Burgos Airport;Burgos;Spain;RGS;LEBG;42.357601;-3.62076;2945.0;1.0;E
+6868;Sabadell Airport;Sabadell;Spain;QSA;LELL;41.52090073;2.105079889;485.0;1.0;E
+7459;Lleida-Alguaire Airport;Lleida;Spain;ILD;LEDA;41.728185;0.535023;1170.0;1.0;E
+7488;Huesca/Pirineos Airport;Huesca;Spain;HSK;LEHC;42.0760994;-0.316666991;1768.0;1.0;U
+7489;Ciudad Real Central Airport;Ciudad Real;Spain;CQM;LERL;38.85638889;-3.97;0.0;1.0;U
+7731;La Cerdanya Airport;Das i Fontanals de Cerdanya;Spain;\N;LECD;42.38639832;1.866670012;3586.0;1.0;E
+8690;Fuentemilanos Airport;Segovia;Spain;\N;LEFM;40.88861084;-4.237500191;3307.0;1.0;E
+9484;Central Bolívar Airport;Sevilla;Spain;\N;SVSJ;8.916666985;-71.93333435;39.0;-4.0;E
+11878;Cuatro Vientos Airport;Madrid;Spain;ECV;LECU;40.370701;-3.78514;2269.0;0.0;\N
+11879;Castellón-Costa Azahar Airport;Castellón de la Plana;Spain;CDT;LEDS;40.213889;0.073333;1145.0;0.0;\N
+11880;Teruel Airport;Teruel;Spain;TEV;LETL;40.403;-1.2183;3380.0;0.0;\N
+13677;Algeciras Heliport;Algeciras;Spain;AEI;LEAG;36.12888;-5.441118;98.0;-2.0;E
+13829;Región de Murcia International Airport;Murcia;Spain;RMU;LEMI;37.803;-1.125;632.0;1.0;E
