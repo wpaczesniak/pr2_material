@@ -70,6 +70,15 @@ def AsignarValores(a:Aeropuerto,s:str):
 		a.SetDST(datos[10])
 	return
 	
+def saveAirportsToFile(airports_in_country: list, country: str):
+	with open('country_' + country + '.csv', 'w', newline='', encoding='utf-8') as file:
+		writer = csv.writer(file)
+		# Write the headers to the CSV file
+		writer.writerow(["ID;Nombre;Ciudad;Pais;IATA;ICAO;Latitud;Longitud;Altitud;Timezone;DST"])
+		# Write the airports to the CSV file
+		for airport in airports_in_country:
+			writer.writerow([airport.__str__()])
+
 def main():
 	# read the file
 	filename = "aeropuertos.csv"
@@ -96,20 +105,17 @@ def main():
 
 	# input a country
 	while True:
-		country = input("Introduce un país: ")
-		if country != "":
+		country = input("Please enter a country: ")
+		if country:
 			break
+		else:
+			print("You entered an empty string. Please provide a valid country name.")
 
 	# create a list of airports in the provided country
 	airports_in_country = [airport for airport in airports if airport.GetPais() == country]
 
-	with open('country_' + country + '.csv', 'w', newline='', encoding='utf-8') as file:
-		writer = csv.writer(file)
-		# Write the headers to the CSV file
-		writer.writerow(["ID;Nombre;Ciudad;Pais;IATA;ICAO;Latitud;Longitud;Altitud;Timezone;DST"])
-		# Write the airports to the CSV file
-		for airport in airports_in_country:
-			writer.writerow([airport.__str__()])
+	# save to csv file
+	saveAirportsToFile(airports_in_country, country)
 
 	return
 	
