@@ -147,9 +147,9 @@ def main():
 
 	# Searching for municipalities with mean population >= 50000
 	for townName in namesOfTowns:
-		result = abb.Buscar(townName)
-		if (result[0] and calculateMeanPopulation(result[1]) >= 50000):
-			highPopulationTowns.append(result[1].GetNombre())
+		searchResult = abb.Buscar(townName)
+		if (searchResult[0] and calculateMeanPopulation(searchResult[1]) >= 50000):
+			highPopulationTowns.append(searchResult[1].GetNombre())
 
 	# Displaying the results
 	print("--------------------------")
