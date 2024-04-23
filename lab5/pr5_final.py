@@ -11,7 +11,7 @@ def ConvertLine(s: str) -> Municipio:
 	m.SetLinea(s)  # Passing the entire text line directly to the SetLinea method
 	return m
 
-def ReadFile(name: str) -> (bool, list):
+def ReadFile(name: str) -> (bool, ABB):
 	"""
 	Reads a file with data on Spanish municipalities.
 
@@ -27,7 +27,7 @@ def ReadFile(name: str) -> (bool, list):
 		List of Municipio objects read from the file.
 	"""
 	opened = False
-	towns = []
+	abb = ABB()
 	try:
 		f = open(name, encoding="utf-8")
 	except FileNotFoundError:
@@ -37,9 +37,9 @@ def ReadFile(name: str) -> (bool, list):
 		f.readline()  # Skip header
 		for line in f:
 			j = ConvertLine(line)
-			towns.append(j)
+			abb.Insertar(j.GetNombre(), j)
 		f.close()
-	return opened, towns
+	return opened, abb
 
 def ReadFileWithNames(name: str) -> (bool, list):
 	opened = False
@@ -122,14 +122,14 @@ def calculateMeanPopulation(municipality):
 def main():
 	filename = "EvolMunicipios2022.csv"
 	# filename = "EvolMunicipios_small.csv"
-	file_opened, municipality_list = ReadFile(filename)
+	file_opened, abb = ReadFile(filename)
 	
 	if not file_opened:
 		print(f"Failed to open file: {filename}")
 		return
 	
 	
-	abb = ABB()
+
 	
 	# Reading file with municipalities names
 	NamesFilename = "MunicipiosVariasProv.csv"
@@ -140,8 +140,8 @@ def main():
 		return
 
 	# Inserting municipalities into the ABB
-	for municipio in municipality_list:
-		abb.Insertar(municipio.GetNombre(), municipio)
+	# for municipio in municipality_list:
+	# 	abb.Insertar(municipio.GetNombre(), municipio)
 	
 	highPopulationTowns = []
 
