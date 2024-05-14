@@ -1,0 +1,688 @@
+NombreLinea;Origen;Destino
+L03;Xàtiva;València
+L1;Alcalà;Las fuentes
+L1;Las fuentes;Cap i Corp
+L1b;Castelló de la Plana;Vila-Real
+L1b;Vila-Real;València
+L4;La Vall d Uixó;Castelló de la Plana
+L13;Castelló de la Plana;Vilafamés
+L18;Borriana;Castelló de la Plana
+L19;Vila-Real;Castelló de la Plana
+L11;Gandia;València
+L1;Castelló de la Plana;Sant Mateu
+L1;Sant Mateu;Morella
+L2;Morella;Alcañiz
+L3A;Culla;Albocàsser
+L4;La Pobla Tornesa;Useres
+L7;Torreblanca;Playa de Torrenostra
+L9;Catí;Sant Mateu
+L9;Sant Mateu;Vinaròs
+L12;Castelló de la Plana;Borriol
+L13;Castelló de la Plana;Las Villas
+L13;Las Villas;Benicàssim
+L14;Castelló de la Plana;Serradal
+L14;Serradal;Mohino
+L14;Mohino;Benicàssim
+L15;Castelló de la Plana;Vinaròs
+L1A;Cullera;Sueca
+L1A;Sueca;Albalat de la Ribera
+L1A;Albalat de la Ribera;Hospital de la Ribera
+L1A;Hospital de la Ribera;Alzira
+L1B;Sueca;Albalat de la Ribera
+L1B;Albalat de la Ribera;Hospital de la Ribera
+L2;Cullera;Sueca
+L2;Sueca;Algemesí
+L3A;Sueca;Cullera
+L3A;Cullera;Favara
+L3A;Favara;Hospital de la Ribera
+L3A;Hospital de la Ribera;Alzira
+L3B;Cullera;Favara
+L3B;Favara;Hospital de la Ribera
+L3B;Hospital de la Ribera;Alzira
+L4;El Perelló;Corbera
+L4;Corbera;Hospital de la Ribera
+L4;Hospital de la Ribera;Alzira
+L5A;El Perelló;Sueca
+L5B;El Perelló;Mareny Blau
+L5B;Mareny Blau;Sueca
+L5C;El Perelló;Mareny Blau
+L5C;Mareny Blau;Bega de Mar
+L5C;Bega de Mar;Sueca
+L2;Carcaixent;Alzira
+L2;Alzira;Algemesí
+L2;Algemesí;València
+L17D;Calp;Altea
+L17D;Altea;Benidorm
+L17D;Benidorm;Vila Joiosa
+L17D;Vila Joiosa;Aeroport de L'Altet
+L1;Vinaròs;Benicarló
+L1;Benicarló;Peñíscola
+L2;Carcelén;Xàtiva
+L3;Pinet;Xàtiva
+L1A;Titaguas;València
+L1B;Tuéjar;València
+L1C;Villar del Arzobispo;València
+L51;Mutxamel;Busot
+L52;Busot;El Campello
+L3;Grau;Serradal
+L4;UJI;Parc Ribalta
+L1A;Onda;Castelló de la Plana
+LX;Sant Joan de Moró;Castelló de la Plana
+L3;Riola;Algemesí
+L3;Algemesí;Guadassuar
+L4;Sollana;Alginet
+L4;Alginet;Hospital de la Ribera
+L1;La Pobla del Duc;Xàtiva
+L1D;Onda;Hospital de la Plana
+L5;Orihuela;La Aparecida
+L6;Torrevieja;UA
+L7;Guardamar del Segura;Hospital de Torrevieja
+L1;UJI;Grau
+L2;UJI;Grau
+L2;Grau;Platja
+L8B;Castelló de la Plana;Benicàssim
+L8B;Benicàssim;Playetas
+L8B;Playetas;Oropesa
+L8B;Oropesa;Oropesa platja
+L320A;València;Sagunt
+L320A;Sagunt;La Vall d Uixó
+L320B;Sagunt;La Vall d Uixó
+L320D;La Vall d Uixó;Sagunt
+L2B;Peñíscola;Benicarló
+L2A;Benicarló;Peñíscola
+L1;Altura/Segorbe;València
+L2A;Segorbe;Puerto de Sagunto
+L3A;Montanejos;Segorbe
+L3B;Pavías;Viver
+L4A;Vall de Almonacid;Segorbe
+L1;Pilar de la Horadada;Alacant
+L2;Torrevieja;Alacant
+L3;Dolores;Alacant
+L4B;Almedíjar;Segorbe
+L5;Los Calpes;Segorbe
+L6A;Torás;Segorbe
+L6B;Chóvar;Segorbe
+L5;Alcublas;Llíria
+L1D;Aras de los Olmos;Titaguas
+L2A;Castilefabib;Vallanca
+L2A;Vallanca;Titaguas
+L2B;Castilefabib;Titaguas
+L3A;Arcos de las Salinas;Abejuela
+L3A;Abejuela;Titaguas
+L3A;Titaguas;Tuéjar
+L3B;Arcos de las Salinas;Titaguas
+L3B;Titaguas;Tuéjar
+L4A;Sot de Chera;Villar del Arzobispo
+L4B;Andilla;Artaj
+L4B;Artaj;Oset
+L4B;Oset;Higueruelas
+L4B;Higueruelas;Villar del Arzobispo
+L6A;Vallanca;Ademuz
+L6A;Ademuz;Torrebaja
+L6B;Casas Bajas;Ademuz
+L6B;Ademuz;Torrebaja
+L1;Santa Pola;Alacant
+L1A;Cofrentes;Ayora
+L1A;Ayora;Almansa
+L1A;Navarrés;Xàtiva
+L1B;Navarrés;Xàtiva
+L1B;Xàtiva;Hospital Comarcal
+L1C;Enguera;Anna
+L1C;Anna;Xàtiva
+L1D;Enguera;Xàtiva
+L1D;Xàtiva;Hospital Comarcal
+L2A;Càrcer;Xàtiva
+L26;Eslida;Castelló de la Plana
+L2B;Cotes;Sumacàrcer
+L2C;Cotes;Sellent
+L3;Antella;Xàtiva
+L4;La Pobla Llarga;Xàtiva
+L4;Xàtiva;Hospital Comarcal
+L5;Barxeta;Xàtiva
+L6;Novetlè;Xàtiva
+L6;Xàtiva;Hospital Comarcal
+L27;Aín;Eslida
+L1;Bocairent;Ontinyent
+L2;Banyeres de Mariola;Villena
+L1;Antella;Alzira
+L1;Alzira;Hospital de la Ribera
+L2;Alberic;Alzira
+L1A;Pego;Oliva
+L1A;Oliva;Gandia
+L1B;Pego;Daimús
+L1B;Daimús;Gandia
+L1C;Oliva;Bellreguard
+L1C;Bellreguard;Gandia
+L1D;Oliva;Daimús
+L1D;Daimús;Gandia
+L29;Artana;Castelló de la Plana
+L30;Betxí;Castelló de la Plana
+L5A;Borriana;València
+L5B;Betxí;Borriana
+L5B;Borriana;València
+L6A;Cortes de Arenoso;Castelló de la Plana
+L9A;Vistabella del Maestrat;Castelló de la Plana
+L4;Orihuela;Hurchillo
+L4;Hurchillo;Arneva
+L2A;Alberic;València
+L1;Carcaixent;Alzira
+L1;Alzira;Algemesí
+L2;Albalat de la Ribera;Alzira
+L1;Tous;Alberic
+L1;Simat de la Valldigna;Tavernes de la Valldigna
+L2;Tavernes de la Valldigna;Platja de Tavernes
+L2B;Càrcer;Alberic
+L3;Navarrés;Alberic
+L1;Llombai;Hospital de la Ribera
+L1;Agost;Sant Vicent del Raspeig
+L9;Los Montesinos;Hospital Torrevieja
+L1;Salvacañete;València
+L2;Landete;València
+L3;Dénia;Platja de Santa Ana
+L4;Dénia;Hospital Comarcal
+L1;Xàbia;Calablanca
+L2;El Verger;Dénia
+L3;Xaló;Orba
+L3;Orba;Dénia
+L1;Dénia;Xàbia
+L1;Vall de Laguar;Dénia
+L8;Orihuela;Raiguero de Bonanza
+L3;Ontinyent;València
+L7;Ontinyent;Canals
+L7;Canals;Xàtiva
+L105A;Vilamarxant;Riba-roja del túria
+L105B;Vilamarxant;Llíria
+L105C;Vilamarxant;Benaguasil
+L105C;Benaguasil;Benisanó
+L105C;Benisanó;Llíria
+L111A;València;Puçol
+L111A;Puçol;Sagunt
+L111A;Sagunt;Port de Sagunt
+L111A;Port de Sagunt;El Puig de Santa Maria
+L111B;València;Massalfassar
+L111B;Massalfassar;Massamagrell
+L111B;Massamagrell;La Pobla de Farnals
+L111B;La Pobla de Farnals;Puçol
+L111B;Puçol;Sagunt
+L111B;Sagunt;Port de Sagunt
+L111C;València;Sagunt
+L111C;Sagunt;Port de Sagunt
+L2;Fuente de Ayódar;Onda
+L3;Puebla de Arenoso;Montanejos
+L3;Montanejos;Onda
+L5;Alcudia de Veo;Onda
+L6;Ludiente;Onda
+L7;Ribesalbes;Onda
+L53;Hospital de Sant Joan;Sant Joan
+L53;Sant Joan;El Campello
+L1;Estació TRAM;Maviro
+L2;Estació de Calp;Parc de la Vallesa
+L3;Calpe Park;Moraira
+L3;Moraira;Teulada
+L1;Bétera;Hospital Doctor Molinell
+L1;Alcoi;Valencia
+L1;Alacant;València
+L7;Alacant;Benidorm
+L7;Benidorm;Xàbia
+L8;Alacant;Xàbia
+L8;Xàbia;Dénia
+L9;València;Gandia
+L9;Gandia;Dénia
+L9;Dénia;Xàbia
+L12;Confrides;Callosa d En Sarrià
+L13;Tarbena;Callosa d En Sarrià
+L14;Alacant;Callosa d En Sarrià
+L2;Vinaròs;Castelló de la Plana
+L2;Castelló de la Plana;València
+L10;Montesinos;Torrevieja
+L13;Orihuela;Desamparados
+L15;San Luis;Torrevieja
+L17;Rocio del Mar;Torrevieja
+L1EX;CC. Zeia Boulevard;Torrevieja
+L3EX;Orihuela;Hospital Vega Baja
+L3EX;Hospital Vega Baja;Callosa d En Sarrià
+L8;Pilar de la Horadada;Hospital de Torrevieja
+L2;La Font d En Carròs;Gandia
+L3;Villalonga;Gandia
+L4;Bellreguard;Playas
+L4;Playas;Gandia
+L2;Millares;Dos Aguas
+L2;Dos Aguas;València
+L3;Real;València
+L4;Alfarp;Torrent
+L4;Torrent;València
+L1;Torrevieja;Aeroport de L'Altet
+L1;Aeroport de L'Altet;Elx
+L4;Pilar de la Horadada;Torrevieja
+L5;Orihuela;Mil Palmeras
+L112A;València;Platges
+L112A;Platges;El Puig de Santa Maria
+L113A;València;Sagunt
+L115;València;Port de Sagunt
+L116A;València;Sagunt
+L116A;Sagunt;Port de Sagunt
+L116A;Port de Sagunt;Canet d en Berenguer
+L116B;València;Sagunt
+L116B;Sagunt;Port de Sagunt
+L116B;Port de Sagunt;Canet d en Berenguer
+L116B;Canet d en Berenguer;Platja Canet
+L116C;València;Port de Sagunt
+L116C;Port de Sagunt;Canet d en Berenguer
+L116C;Canet d en Berenguer;Platja Canet
+L310;Les Valls;Canet d en Berenguer
+L310;Canet d en Berenguer;Platja de Canet
+L310;Platja de Canet;Port de Sagunt
+L310;Port de Sagunt;Sagunt
+L1A;Crevillent;Elx
+L1A;Elx;Alacant
+L1B;Crevillent;Elx
+L1B;Elx;Camp de Golf
+L1B;Camp de Golf;Alacant
+L6;Bacarot;Alacant
+L7;Crevillent;Universidad Miguel Hernández
+L8;Elx;Universidad Miguel Hernández
+L10;Torrellano;UA
+L2A;Alcoi;Biar
+L2A;Biar;Villena
+L2B;Alcoi;Tibi
+L2B;Tibi;Alacant
+L5;Alacant;Sant Joan
+L5;Sant Joan;Xixona
+L5;Xixona;La torre de les Maçanes
+L9;Alcoi;Banyeres de Mariola
+L15;Callosa d En Sarrià;Benidorm
+L16;Alacant;Benidorm
+L18;Vila Joiosa;Hospital Comarcal
+L18;Hospital Comarcal;Altea
+L18;Altea;Benidorm
+L19;Pego;Dénia
+L20;Pego;Benissa
+L22;València;Teulada
+L22;Teulada;Benissa
+L22;Benissa;Calp
+L22;Calp;València estació AVE
+L23;Borriana;Borriana
+L1;Playa de Oliva;Oliva
+L1;Gandia;Xeresa
+L1;Xeresa;Xeraco
+L1;Simat de la Valldigna;Gandia
+L2;Xàtiva;Carcaixent
+L2;Carcaixent;Alzira
+L2;Alzira;Gandia
+L1;Gátova;Llíria
+L1;Orihuela;Hospital de Torrevieja
+L1;Dénia;Les Rotes
+L2;Dénia;Les Marines
+L1;Barx;Gandia
+L2;Oliva;Campings
+L1;Aqualandia Mundomar;Racó de Loix
+L1;Racó de Loix;Benidorm
+L1;Benidorm;Estació FGV Benidorm
+L1;Estació FGV Benidorm;Terra Mítica
+L2;Racó de Loix;Benidorm
+L2;Benidorm;Platja de Ponent
+L2;Platja de Ponent;Cala de Finestrat
+L2;Cala de Finestrat;Estació FGV Benidorm
+L4;Palau d  Esports;Est. Autobuses
+L4;Est. Autobuses;C. Valenciana
+L4;C. Valenciana;Severo Ochoa
+L4;Severo Ochoa;Ametlla de Mar
+L4;Ametlla de Mar;Rincón de Loix
+L4;Rincón de Loix;Mediterrani
+L4;Mediterrani;Benidorm Centre
+L5;Severo Ochoa;Ametlla de Mar
+L5;Ametlla de Mar;Rincón de Loix
+L5;Rincón de Loix;Mediterrani
+L5;Mediterrani;Benidorm Centre
+L3;Estació autobusos;Benidorm
+L3;Benidorm;Cala de Finestrat
+L3;Cala de Finestrat;Centre Comercial
+L3;Centre Comercial;Terra Mítica
+L6;Benidorm Centre;Mercat Hotel Pueblo
+L6;Mercat Hotel Pueblo;Mediterrani
+L6;Mediterrani;Europa
+L6;Europa;Lepanto
+L7;Comunitat Valenciana;Beniardá
+L7;Beniardá;Alfonso Puchades
+L7;Alfonso Puchades;Salto del Agua
+L8;Estació Tren;Beniardá
+L8;Beniardá;Jaume I
+L8;Jaume I;Pérez Devesa
+L8;Pérez Devesa;Murtal
+L8;Murtal;Bali
+L8;Bali;Marina Baixa
+L8;Marina Baixa;Cales
+L9;Jaume I;Alfonso Puchades
+L9;Alfonso Puchades;Comunitat Valenciana
+L9;Comunitat Valenciana;Salt de l Aigua
+L10;Altea;Mediterrani
+L10;Mediterrani;Port d Altea
+L10;Port d Altea;Platja Albir
+L10;Platja Albir;Albir
+L10;Albir;L Alfas del Pi
+L10;L Alfas del Pi;Severo Ochoa
+L10;Severo Ochoa;Rincón de Loix
+L10;Rincón de Loix;Benidorm Centre
+L13;Cala de Finestrat;Bali
+L13;Bali;Pérez Devesa
+L13;Pérez Devesa;Jaume I
+L13;Jaume I;A. Puchades
+L13;A. Puchades;Bnd. Centro
+L13;Bnd. Centro;Mediterrani
+L13;Mediterrani;Rincón de Loix
+L13;Rincón de Loix;S. Ochoa
+L13;S. Ochoa;La Nucia
+L13;La Nucia;Polop
+L13;Polop;Guadalest
+L20;Altea;C/ Les Piteres
+L20;C/ Les Piteres;C/ Garganes
+L20;C/ Garganes;Cap Negret
+L20;Cap Negret;C/ Garganes
+L20;C/ Garganes;Cap Negret
+L20;Cap Negret;Altea la Vella
+L22;Rincón de Loix;Mediterrani
+L22;Mediterrani;Benidorm Centre
+L22;Benidorm Centre;Almendros
+L22;Almendros;Parque Elche
+L22;Parque Elche;Platja de Ponent
+L22;Platja de Ponent;Hotel Bali
+L22;Hotel Bali;Cala de Finestrat
+L23;Rincón de Loix;Ametlla de Mar
+L23;Ametlla de Mar;Severo Ochoa
+L23;Severo Ochoa;El Albir
+L23;El Albir;Port d Altea
+L23;Port d Altea;Altea
+L4;Castellfort;Villafranca del Cid
+L5;Vallibona;Morella
+L5;La Vall d Uixó;Platja de Xilxes
+L6;La Vall d Uixó;Platja de Moncofa
+L1;Villafranca del Cid;Castelló de la Plana
+L3;Castelló de la Plana;Almassora
+L4;Castelló de la Plana;Moncofa
+L7;Llucena;Castelló de la Plana
+L10;Atzeneta del Maestrat;Alcora
+L11;Xodos;Atzeneta del Maestrat
+L14;Benassal;Albocàsser
+L15;Villahermosa del Río;Castelló de la Plana
+L16;Culla;Benassal
+L17;Castelló de la Plana;Platja del Pinar
+L1;Chera;Requena
+L2A;Venta del Moro;Requena
+L8;Castelló de la Plana;Alcora
+L3;Castelló de la Plana;Teruel
+L2B;Campo Arcís;Requena
+L3;Casas de Moyas;Utiel
+L3;Utiel;Hospital de Manises
+L2;Gandia;Grau de Gandia
+L2;Grau de Gandia;Platja de Gandia
+L6;Gandia;Platja de Xeraco
+L1a;Real de Gandia;Gandia
+L1b;Gandia;Grau de Gandia
+L5a;Gandia;Marxuquera
+L5b;Gandia;Marenys de Rafalcaid
+L20;Torrevieja;Crevillente
+L1;Orihuela;Guardamar del Segura
+L1B;Orihuela;Daya Nueva
+L1B;Daya Nueva;Daya Vieja
+L1B;Daya Vieja;Guardamar del Segura
+L2;Almoradí;Rojales
+L2;Rojales;Alacant
+L1;Atzeneta d Albaida;Xàtiva
+L1;Otos;Gandia
+L1;Olocau;Morella
+L1;Morella;Cantavieja
+L1;Cantavieja;Mirambell
+L2;Villafranca del Cid;Morella
+L3;Zorita del Maestrazgo;Morella
+L4;Castell de Castells;Venta del Surdo
+L6;Herbés;Morella
+L185A;València;Benifaió
+L186A;València;Centre Penitenciari
+L186B;València;Universitat de València
+L186B;Universitat de València;Centre Penitenciari
+L260A;València;Godelleta
+L260A;Godelleta;Turís
+L260B;València;Mislata
+L260B;Mislata;Turís
+L260B;Turís;Quart de Poblet
+L260B;Quart de Poblet;Godelleta
+L265A;València;Yátova
+L265B;València;Cheste
+L265B;Cheste;Yátova
+L265C;València;Cheste
+L265C;Cheste;Urbanitzacions Olimar i Carambolo
+L265C;Urbanitzacions Olimar i Carambolo;Yátova
+L266A;València;Cheste
+L266B;València;Urbanitzacions
+L266B;Urbanitzacions;Cheste
+L267A;La Hoya de Buñol;Buñol
+L267A;Buñol;Ventas de Buñol
+L267A;Ventas de Buñol;Chiva
+L267A;Chiva;Cheste
+L267A;Cheste;Loriguilla
+L267A;Loriguilla;Manises
+L267A;Manises;Aldaia
+L267A;Aldaia;Hospital de Manises
+L267B;La Hoya de Buñol;Yátova
+L267B;Yátova;Alborache
+L267B;Alborache;Turís
+L267B;Turís;Godelleta
+L267B;Godelleta;Manises
+L267B;Manises;Aldaia
+L267B;Aldaia;Hospital de Manises
+L267C;La Hoya de Buñol;Ventas de Buñol
+L267C;Ventas de Buñol;Buñol
+L267C;Buñol;Yátova
+L267C;Yátova;Macastre
+L267C;Macastre;Alborache
+L267C;Alborache;Turís
+L267C;Turís;Godelleta
+L267C;Godelleta;Manises
+L267C;Manises;Aldaia
+L267C;Aldaia;Hospital de Manises
+L268A;La Hoya de Buñol;Buñol
+L268A;Buñol;Ventas de Buñol
+L268A;Ventas de Buñol;Chiva
+L268A;Chiva;Cheste
+L268A;Cheste;Playa de la Malvarrosa
+L268B;La Hoya de Buñol;Yátova
+L268B;Yátova;Macastre
+L268B;Macastre;Alborache
+L268B;Alborache;Turís
+L268B;Turís;Godelleta
+L268B;Godelleta;Playa de la Malvarrosa
+L269A;València;Base Aérea
+L269A;Base Aérea;L’Oliveral y La Reva
+L269B;València;L’Oliveral y La Reva
+L106A;Torrent;Alaquàs
+L106A;Alaquàs;Aldaia
+L106A;Aldaia;CC Bonaire
+L106A;CC Bonaire;Barrio del Cristo
+L106A;Barrio del Cristo;Aeroport
+L106A;Aeroport;Manises
+L106A;Manises;Quart de Poblet
+L106B;Torrent;Alaquàs
+L106B;Alaquàs;Aldaia
+L106B;Aldaia;C.C. Bonaire
+L107;Aldaia;Platja del Saler
+L150;València;Mislata
+L150;Mislata;Quart de Poblet
+L150;Quart de Poblet;Manises
+L150;Manises;Aeroport
+L160A;València;Barrio de la Luz
+L160A;Barrio de la Luz;Xirivella
+L160A;Xirivella;Aldaia
+L160A;Aldaia;Barrio del Cristo
+L160A;Barrio del Cristo;CC Bonaire
+L160B;València;Barrio de la Luz
+L160B;Barrio de la Luz;Xirivella
+L160B;Xirivella;Aldaia
+L160B;Aldaia;Barrio del Cristo
+L161A;València;Barrio de la Luz
+L161A;Barrio de la Luz;Xirivella
+L161A;Xirivella;Aldaia
+L161A;Aldaia;Barrio del Cristo
+L161A;Barrio del Cristo;Quart de Poblet
+L161A;Quart de Poblet;Alaquàs
+L28;Elda;Petrer
+L161B;València;Barrio de la Luz
+L161B;Barrio de la Luz;Xirivella
+L161B;Xirivella;Aldaia
+L161B;Aldaia;Barrio del Cristo
+L161B;Barrio del Cristo;Alaquàs
+L161C;València;Barrio de la Luz
+L161C;Barrio de la Luz;Xirivella
+L161C;Xirivella;Aldaia
+L161C;Aldaia;Alaquàs
+L162;Aldaia;Salt de l Aigua
+L163;València;Alaquàs
+L164;València;Xirivella
+L165;Quart de Poblet;Manises
+L165;Manises;Paterna
+L165;Paterna;Burjassot
+L170A;València;Barrio de la Luz
+L170A;Barrio de la Luz;Xirivella
+L170A;Xirivella;Alaquàs
+L170A;Alaquàs;Torrent
+L170A;Torrent;El Vedat
+L170A;El Vedat;Cumbres
+L170A;Cumbres;Calicanto
+L170B;València;Barrio de la Luz
+L170B;Barrio de la Luz;Xirivella
+L170B;Xirivella;Alaquàs
+L170B;Alaquàs;Torrent
+L170B;Torrent;El Vedat
+L170C;València;Barrio de la Luz
+L170C;Barrio de la Luz;Xirivella
+L170C;Xirivella;Alaquàs
+L170C;Alaquàs;Torrent
+L130A;Estació Metro Empalme;Facultats
+L130A;Facultats;Parc Tencològic
+L130B;Estació Metro Empalme;Burjassot
+L130B;Burjassot;Parc Tencològic
+L131A;València;Facultats
+L131A;Facultats;Mas Camarena
+L131B;Mas Camarena;Estació Metro Empalme
+L135A;València;Torre en Conill
+L135B;Mas Camarena;Torre en Conill
+L140A;València;Paterna
+L140B;València;Paterna
+L140B;Paterna;El Plantío
+L142A;Paterna;Hospital La Fe
+L142B;Paterna;Centro de Especialidades Burjassot
+L145A;València;CC El Osito
+L145A;CC El Osito;La Pobla de Vallbona
+L145A;La Pobla de Vallbona;Llíria
+L145B;València;CC El Osito
+L145B;CC El Osito;La Pobla de Vallbona
+L145B;La Pobla de Vallbona;Llíria
+L145B;Llíria;San Antonio de Benagéber
+L145B;San Antonio de Benagéber;L’Eliana
+L245A;València;Vilamarxant
+L245A;Vilamarxant;Gestalgar
+L245B;València;Rambla
+L245B;Rambla;Gestalgar
+L141;València;La Lloma Llarga
+L141;La Lloma Llarga;Valterna
+L143;Paterna;Port Saplaya
+L144;València;Parque Tecnológico
+L144;Parque Tecnológico;L’Andana
+L146;València;San Antonio de Benagéber
+L146;San Antonio de Benagéber;L’Eliana
+L146;L’Eliana;CC El Osito
+L147;València;Parque Empresarial Táctica
+L148;València;Fuente del Jarro
+L230;Bétera;Nàquera
+L230;Nàquera;Serra
+L16;Alcoi;UA
+L8;Santa Pola;Sant Vicent del Raspeig
+L1;Alcoi;Cocentaina
+L1;Cocentaina;Muro de Alcoi
+L2A;Alacant;EUIPO
+L2A;EUIPO;Av. Elx
+L2A;Av. Elx;Urbanova
+L2B;Alacant;Av. Elx
+L2B;Av. Elx;Urbanova
+L2C;Alacant;Urbanova
+L1;Alacant;Villena
+L11;Alacant;Novelda
+L11;Novelda;Pinoso
+L15;Sax;Petrer
+L15;Petrer;Elda
+L15;Elda;Monòver
+L15;Monòver;Universidad Miguel Hernández
+L20;Sax;Elda
+L20;Elda;Elx
+L20;Elx;Santa Pola
+L20;Santa Pola;Hospital de Elda
+L20;Hospital de Elda;Petrer
+C6;Alacant;Aeroport
+L29;Elda;Monòver
+L1;Elx;Santa Pola
+L1;Elx;Baya Baja
+L1;Elx;Parque Empresarial
+L1;Parque Empresarial;Torrellano
+L1;Torrellano;Aeroport de L'Altet
+L1;Aeroport de L'Altet;El Altet
+L1;El Altet;Arenales del Sol
+L2;Elx;Perleta
+L2;Perleta;El Vincle
+L2;El Vincle;Valverde
+L2;Valverde;Balsares
+L2;Balsares;El Altet
+L2;El Altet;Arenales del Sol
+L7;Alcoi;Villena
+L10;Alcoi;Famorca
+L10;Famorca;Quatretondeta
+L10;Quatretondeta;Millena
+L2;Alcoi;Bocairent
+L2;Bocairent;Muro de Alcoi
+L2;Muro de Alcoi;Planes
+L2;Planes;Dénia
+L33;Pinoso;Algueña
+L33;Algueña;Hondones
+L33;Hondones;La Romana
+L33;La Romana;Aspe
+L33;Aspe;Petrer
+L33;Petrer;Salinas
+L103;Alcàsser;Silla
+L108;Picassent;Platja del Saler
+L179;Paiporta;Albal
+L180;València;Albal
+L181A;València;Hospital La Fe
+L181A;Hospital La Fe;Picassent
+L181B;València;Picassent
+L182A;València;Silla
+L182C;València;Silla
+L182C;Silla;Albal
+L184;Silla;Hospital La Fe
+L1A;Utiel;Requena
+L1A;Requena;València
+L1B;Utiel;Siete Aguas
+L1B;Siete Aguas;Requena
+L1B;Requena;València
+L1C;Requena;Siete Aguas
+L1C;Siete Aguas;València
+L2;Ayora;Requena
+L3;Villagordo;Fuenterobles
+L3;Fuenterobles;Utiel
+L3;Utiel;Requena
+L4;Camporrobles;Utiel
+L4;Utiel;Requena
+L183;València;Horno de Alcedo
+L183;Horno de Alcedo;Sedaví
+L183;Sedaví;C.C. Alfafar
+L183;C.C. Alfafar;Ikea
+L191;València;El Perelló
+L191;El Perelló;El Mareny Blau
+L280;València;Llombai
+L281;València;Parques Empresariales de Juan Carlos I, Norte y L Ermita
+L21;Alacant;El Campello
+L23;Alacant;Mutxamel
+L24;Alacant;Sant Vicent del Raspeig
+L26;Villafranqueza;Tangel
+L30;Sant Vicent del Raspeig;La Alcoraya
+L31;Mutxamel;Platja de Sant Joan
+L36;San Gabriel;UA
+L38A;Platja Sant Joan;UA
+L38B;Platja de Sant Joan;Hospital de Sant Joan

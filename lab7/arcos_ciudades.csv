@@ -1,0 +1,100 @@
+origen;destino;peso
+Albacete;Granada;5
+Albacete;Teruel;4
+Alicante;Palencia;7
+Alicante;Pamplona;8
+Alicante;Segovia;1
+Almería;Guadalajara;9
+Almería;Lugo;10
+Almería;Melilla;8
+Almería;Sevilla;6
+Almería;Toledo;6
+Ávila;Albacete;4
+Ávila;Lugo;5
+Badajoz;Albacete;2
+Badajoz;Zaragoza;9
+Barcelona;Zaragoza;3
+Barcelona;Burgos;9
+Barcelona;Teruel;8
+Bilbao;Ciudad Real;9
+Bilbao;Salamanca;2
+Burgos;Huesca;7
+Burgos;Lérida;9
+Cáceres;Pamplona;5
+Cádiz;Jaén;1
+Cádiz;Palencia;5
+Cádiz;Palma de Mallorca;9
+Cádiz;Pontevedra;10
+Ceuta;Las Palmas de Gran Canaria;7
+Ceuta;Teruel;9
+Ciudad Real;Palencia;10
+Ciudad Real;Palma de Mallorca;8
+Ciudad Real;Santa Cruz de Tenerife;2
+Córdoba;San Sebastián;4
+Cuenca;Guadalajara;6
+Cuenca;La Coruña;9
+Cuenca;Logroño;3
+Gerona;Jaén;10
+Gerona;Santa Cruz de Tenerife;3
+Granada;Teruel;2
+Guadalajara;Cádiz;10
+Guadalajara;Melilla;2
+Huesca;Castellón de la Plana;7
+Jaén;Gerona;5
+Jaén;Zamora;1
+La Coruña;Ceuta;5
+La Coruña;Huesca;3
+La Coruña;Murcia;8
+Las Palmas de Gran Canaria;Jaén;2
+Las Palmas de Gran Canaria;La Coruña;3
+León;Vitoria;10
+Lérida;Ceuta;10
+Lérida;Huelva;5
+Lérida;Huesca;9
+Lérida;Madrid;6
+Lérida;San Sebastián;3
+Lérida;Sevilla;7
+Logroño;Oviedo;4
+Lugo;Badajoz;5
+Lugo;Salamanca;4
+Madrid;Badajoz;7
+Málaga;Castellón de la Plana;1
+Málaga;Palma de Mallorca;4
+Málaga;Sevilla;6
+Melilla;Sevilla;1
+Orense;Castellón de la Plana;10
+Oviedo;Palma de Mallorca;5
+Oviedo;Teruel;5
+Palencia;Castellón de la Plana;9
+Palencia;Teruel;3
+Palma de Mallorca;Albacete;7
+Pamplona;Alicante;2
+Pamplona;Burgos;8
+Pamplona;Cáceres;7
+Pamplona;Ciudad Real;5
+Pamplona;Gerona;10
+Pontevedra;Sevilla;8
+Pontevedra;Toledo;6
+Salamanca;Ceuta;10
+Salamanca;Pamplona;6
+Salamanca;Pontevedra;1
+Segovia;Alicante;8
+Segovia;Logroño;4
+Segovia;Valencia;9
+Sevilla;Ávila;3
+Sevilla;Málaga;4
+Soria;La Coruña;4
+Soria;Vitoria;7
+Teruel;Córdoba;3
+Teruel;Soria;9
+Teruel;Valladolid;2
+Toledo;Cádiz;5
+Toledo;Segovia;6
+Valencia;Logroño;9
+Vitoria;Huesca;3
+Vitoria;Málaga;5
+Vitoria;Vitoria;4
+Zamora;Huesca;3
+Zaragoza;Oviedo;7
+Zaragoza;Pontevedra;10
+Zaragoza;Segovia;6
